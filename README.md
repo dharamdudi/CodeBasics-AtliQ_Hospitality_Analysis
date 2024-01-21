@@ -38,8 +38,9 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ### Things learnt from this project
 
-- Waffle Chart
-- Calender Chart
-- Clear Filter Button
-- Dynamic Zone Visibility
-- Using parameters to switch Measures
+- Hospitality domain related important metrics
+- Waffle, calender, and image fill charts in Tableau
+- Clear filters button in Tableau
+- Using dynamic zone visibility to switch sheets in Tableau
+- Using parameters to switch measures in Tableau
+- Boolean operations in Figma
