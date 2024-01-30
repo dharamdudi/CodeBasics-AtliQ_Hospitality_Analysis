@@ -5,7 +5,7 @@ and ineffective decision-making in management, AtliQ Grands are losing its marke
 🌟 In this task, As a data analyst, I have investigated the data to uncover insights related to revenue and bookings of the different hotels of AtliQ. To showcase the insights unearthed,
 I have prepared a Tableau dashboard.
 
-Link to the Tableau Interactive Dashboard: [Tableau Public](https://public.tableau.com/app/profile/dharamdudi/viz/Codebasics-AtliQHospitalityChallenge/Overview)
+Link to the Tableau Interactive Dashboard: <a href="https://public.tableau.com/app/profile/dharamdudi/viz/Codebasics-AtliQHospitalityChallenge/Overview" target="_blank">Tableau Public</a>
 
 Link to the CodeBasics Resume Project Challenge: [CodeBasics](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
