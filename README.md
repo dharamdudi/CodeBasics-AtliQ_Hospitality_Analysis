@@ -7,11 +7,11 @@ I have prepared a Tableau dashboard.
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1T748-WqksuOAEYaTG3AoAeVLvAR3G1M-/view?usp=sharing">
-    <img src="https://img.shields.io/badge/View%20Project%20%20Findings/Insights%20(PDF%20File)-EC5050?style=for-the-badge&logo=googledrive&logoColor=white" />        
+    <img align="center" src="https://img.shields.io/badge/View%20Project%20%20Findings/Insights%20(PDF%20File)-EC5050?style=for-the-badge&logo=googledrive&logoColor=white">        
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://public.tableau.com/app/profile/dharamdudi/viz/Codebasics-AtliQHospitalityChallenge/Overview">
-    <img src="https://img.shields.io/badge/View%20Tableau%20Interactive%20Dashboard%20(Tableau%20Public)-EC5050?style=for-the-badge&logo=tableau&logoColor=white" />        
+    <img align="center" src="https://img.shields.io/badge/View%20Tableau%20Interactive%20Dashboard%20(Tableau%20Public)-EC5050?style=for-the-badge&logo=tableau&logoColor=white">        
   </a>
 </p>
 
