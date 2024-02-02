@@ -7,11 +7,11 @@ I have prepared a Tableau dashboard.
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1T748-WqksuOAEYaTG3AoAeVLvAR3G1M-/view?usp=sharing">
-    <img align="center" src="https://img.shields.io/badge/View%20Project%20%20Findings/Insights%20(PDF%20File)-EC5050?style=for-the-badge&logo=googledrive&logoColor=white">        
+    <img src="https://img.shields.io/badge/View%20Project%20%20Findings/Insights%20(PDF%20File)-EC5050?style=for-the-badge&logo=googledrive&logoColor=white">        
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://public.tableau.com/app/profile/dharamdudi/viz/Codebasics-AtliQHospitalityChallenge/Overview">
-    <img align="center" src="https://img.shields.io/badge/View%20Tableau%20Interactive%20Dashboard%20(Tableau%20Public)-EC5050?style=for-the-badge&logo=tableau&logoColor=white">        
+    <img src="https://img.shields.io/badge/View%20Tableau%20Interactive%20Dashboard%20(Tableau%20Public)-EC5050?style=for-the-badge&logo=tableau&logoColor=white">        
   </a>
 </p>
 
@@ -81,3 +81,5 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 🔹 Using parameters to switch measures in Tableau
 
 🔹 Boolean operations in Figma
+
+Image Credits: Freepik - [Image 1](https://www.freepik.com/free-vector/illustrated-hotel-banner-template_13442835.htm), [Image 2](https://www.freepik.com/free-vector/organic-flat-hotel-banner-template_13404422.htm#query=hotels%20hospitality&position=9&from_view=search&track=ais&uuid=1347ee75-4c75-422e-8b10-bc21b5e334f2)
